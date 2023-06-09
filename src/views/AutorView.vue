@@ -1,4 +1,4 @@
-<!-- <script>
+<script>
 import AutoresApi from "@/api/autores";
 const autoresApi = new AutoresApi();
 export default {
@@ -50,4 +50,4 @@ export default {
   </ul>
 </template>
 
-<style></style> -->
+<style></style>
